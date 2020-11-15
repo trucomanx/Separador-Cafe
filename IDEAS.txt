@@ -1,0 +1,5 @@
+Crea janelas superpuestas de un tamanho aproximado de 20 cafes y tira transformada de fourier,
+de essa forma encuentro padroes, por los pico, si existe un padrao então existe um racimo
+
+WINDOW_SIZE=SizeOfCafe*20;
+MatrizDePesosPossiblePadrao=func_find_padrao(IMG,WINDOW_SIZE);

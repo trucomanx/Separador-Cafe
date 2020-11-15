@@ -1,2 +1,2 @@
-# Separador-Cafe
-Separador-Cafe
+# separador
+separador debil
